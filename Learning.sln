@@ -9,15 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{7183F8D2-255C-4EF8-B93F-3EE9982EEC72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{8D18589B-8F28-4E89-8C84-18F781B13706}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{8D18589B-8F28-4E89-8C84-18F781B13706}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{8D3325D6-3317-44FD-97D5-E104FFEC250B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{8D3325D6-3317-44FD-97D5-E104FFEC250B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{372A6278-DB5B-4257-9D4E-53BA154D8164}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{372A6278-DB5B-4257-9D4E-53BA154D8164}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{51828341-D7CD-4DD0-AE52-18B141394A02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{51828341-D7CD-4DD0-AE52-18B141394A02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{4EF33444-01A1-4FF9-B610-69DA1CFEEC05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{4EF33444-01A1-4FF9-B610-69DA1CFEEC05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "LinqProject\LinqProject.csproj", "{5CFA26CC-B8E7-41D6-B701-71BDE90F89FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{6FBCFACC-6CC1-4C46-8E95-1CC06007262E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{4EF33444-01A1-4FF9-B610-69DA1CFEEC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EF33444-01A1-4FF9-B610-69DA1CFEEC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EF33444-01A1-4FF9-B610-69DA1CFEEC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CFA26CC-B8E7-41D6-B701-71BDE90F89FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFA26CC-B8E7-41D6-B701-71BDE90F89FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFA26CC-B8E7-41D6-B701-71BDE90F89FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFA26CC-B8E7-41D6-B701-71BDE90F89FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBCFACC-6CC1-4C46-8E95-1CC06007262E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBCFACC-6CC1-4C46-8E95-1CC06007262E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBCFACC-6CC1-4C46-8E95-1CC06007262E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBCFACC-6CC1-4C46-8E95-1CC06007262E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
